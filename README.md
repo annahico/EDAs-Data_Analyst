@@ -62,8 +62,8 @@ Here are some of the projects I've worked on:
 
 Feel free to reach out to me for collaborations, job opportunities, or just to connect!
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/annahico)
-- **GitHub**: [Your GitHub Profile](https://github.com/annahico)
+- **LinkedIn**: [annahico's LinkedIn](https://www.linkedin.com/in/annahico)
+- **GitHub**: [annahico's GitHub](https://github.com/annahico)
 
 ---
 

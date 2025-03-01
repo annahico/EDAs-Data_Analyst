@@ -52,9 +52,10 @@ Here are some of the projects I've worked on:
 ## 📊 Certifications
 
 - **Bootcamp Data Scientist Certificate** - The Bridge
+- **Power BI Desktop Specialist** - Power BI
 - **Tableau Desktop Specialist** - Tableau
 - **Data Analyst Certificate** - Coursera
-- **Python** - CIFO La Violeta
+- **Introduction to Python** - CIFO La Violeta
 
 ---
 
